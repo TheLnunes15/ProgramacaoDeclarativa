@@ -25,7 +25,7 @@ do pixel . Defina uma função **rot :: [[Int]] -> [[Int]]** que gira a imagem 9
 [**Segunda Unidade**] - *Prolog e Haskell*
 
 **1. Prolog:**
-Implemente os seguintes métodos de ordenação em Prolog:
+Implemente os seguintes métodos de ordenação em Prolog
 
 *a)* Quicksort
 
