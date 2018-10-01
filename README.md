@@ -17,15 +17,14 @@
 *e)* Defina uma função **subst :: String -> String -> String -> String** que recebe como entrada um texto, um termo a ser procurado e um novo termo que vai substituir a primeira
 ocorrência do termo procurado no texto.
 
-2. Assuma que uma imagem é representada como uma lista de listas de inteiros, sendo as listas internas as linhas da imagem e cada elemento das listas internas representa o valor de intensidade
+**2.** Assuma que uma imagem é representada como uma lista de listas de inteiros, sendo as listas internas as linhas da imagem e cada elemento das listas internas representa o valor de intensidade
 do pixel . Defina uma função **rot :: [[Int]] -> [[Int]]** que gira a imagem 90 graus.
 
-3. (extra) Esse é um clássico da computação. O objetivo é colocar N rainhas em um tabuleiro N por N de modo que nenhuma rainha esteja na mesma linha, coluna ou diagonal das outras. Defina uma função **queen :: Int -> [Int]** que, dado o tamanho do tabuleiro, retorna uma solução do problema.
+**3. (extra)** Esse é um clássico da computação. O objetivo é colocar N rainhas em um tabuleiro N por N de modo que nenhuma rainha esteja na mesma linha, coluna ou diagonal das outras. Defina uma função **queen :: Int -> [Int]** que, dado o tamanho do tabuleiro, retorna uma solução do problema.
 
 [**Segunda Unidade**] - *Prolog e Haskell*
 
 **1. Prolog:**
-
 Implemente os seguintes métodos de ordenação em Prolog:
 
 *a)* Quicksort
