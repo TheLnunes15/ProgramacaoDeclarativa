@@ -1,6 +1,6 @@
 # ProgramacaoDeclarativa
 
-**Provas práticas da disciplina Programação Declarativa**
+**Provas práticas da disciplina Programação Declarativa (Funcional)**
 
 [**Primeira Unidade**] - *Haskell*
 
